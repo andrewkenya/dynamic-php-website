@@ -1,0 +1,58 @@
+html, body{
+  height:100%;
+  width:100%;
+  margin:0;
+  padding:0;
+
+}
+
+.navbar {
+  padding: 1% 0;
+  font-size: 1.2em;
+
+}
+.navbar li{
+  margin-left:30px;
+  margin-right:30px;
+  font-size:1.4rem;
+  
+
+}
+
+.navbar li a{
+  text-decoration: none;
+     color:#6bbb00;
+}
+.navbar li a:hover{
+  color:#fff;
+  border:1px solid #6bbb00;
+}
+
+#philosophy{
+  text-align:center;
+}
+#philosophy h1{
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+}
+#team{
+  img{
+    margin-top:-25px;
+
+  }
+  .fa{
+    font-size:25px;
+
+  }
+
+  .card:hover{
+    background-color:#6bbb00;
+    color:#fff;
+
+     .fa{
+       color:#fff;
+     }
+  }
+
+}
